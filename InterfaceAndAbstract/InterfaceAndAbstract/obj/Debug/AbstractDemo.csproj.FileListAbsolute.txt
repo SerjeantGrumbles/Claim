@@ -1,0 +1,7 @@
+C:\Users\ConradNotebook\source\repos\Week2\InterfaceAndAbstract\InterfaceAndAbstract\bin\Debug\InterfaceAndAbstract.exe.config
+C:\Users\ConradNotebook\source\repos\Week2\InterfaceAndAbstract\InterfaceAndAbstract\bin\Debug\InterfaceAndAbstract.exe
+C:\Users\ConradNotebook\source\repos\Week2\InterfaceAndAbstract\InterfaceAndAbstract\bin\Debug\InterfaceAndAbstract.pdb
+C:\Users\ConradNotebook\source\repos\Week2\InterfaceAndAbstract\InterfaceAndAbstract\obj\Debug\AbstractDemo.csprojAssemblyReference.cache
+C:\Users\ConradNotebook\source\repos\Week2\InterfaceAndAbstract\InterfaceAndAbstract\obj\Debug\AbstractDemo.csproj.CoreCompileInputs.cache
+C:\Users\ConradNotebook\source\repos\Week2\InterfaceAndAbstract\InterfaceAndAbstract\obj\Debug\InterfaceAndAbstract.exe
+C:\Users\ConradNotebook\source\repos\Week2\InterfaceAndAbstract\InterfaceAndAbstract\obj\Debug\InterfaceAndAbstract.pdb
