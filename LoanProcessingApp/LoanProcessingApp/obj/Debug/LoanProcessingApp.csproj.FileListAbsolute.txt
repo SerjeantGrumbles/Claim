@@ -1,0 +1,7 @@
+C:\Users\ConradNotebook\Documents\Claim Academy\Week2\LoanProcessingApp\LoanProcessingApp\bin\Debug\LoanProcessingApp.exe.config
+C:\Users\ConradNotebook\Documents\Claim Academy\Week2\LoanProcessingApp\LoanProcessingApp\bin\Debug\LoanProcessingApp.exe
+C:\Users\ConradNotebook\Documents\Claim Academy\Week2\LoanProcessingApp\LoanProcessingApp\bin\Debug\LoanProcessingApp.pdb
+C:\Users\ConradNotebook\Documents\Claim Academy\Week2\LoanProcessingApp\LoanProcessingApp\obj\Debug\LoanProcessingApp.csprojAssemblyReference.cache
+C:\Users\ConradNotebook\Documents\Claim Academy\Week2\LoanProcessingApp\LoanProcessingApp\obj\Debug\LoanProcessingApp.csproj.CoreCompileInputs.cache
+C:\Users\ConradNotebook\Documents\Claim Academy\Week2\LoanProcessingApp\LoanProcessingApp\obj\Debug\LoanProcessingApp.exe
+C:\Users\ConradNotebook\Documents\Claim Academy\Week2\LoanProcessingApp\LoanProcessingApp\obj\Debug\LoanProcessingApp.pdb

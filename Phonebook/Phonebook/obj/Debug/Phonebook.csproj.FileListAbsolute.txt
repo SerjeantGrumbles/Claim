@@ -1,0 +1,14 @@
+C:\Users\ConradNotebook\source\repos\Week2\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\ConradNotebook\source\repos\Week2\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\ConradNotebook\source\repos\Week2\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\ConradNotebook\source\repos\Week2\Phonebook\Phonebook\obj\Debug\Phonebook.csprojAssemblyReference.cache
+C:\Users\ConradNotebook\source\repos\Week2\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\ConradNotebook\source\repos\Week2\Phonebook\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\ConradNotebook\source\repos\Week2\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
+C:\Users\ConradNotebook\Documents\Claim Academy\Week2\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\ConradNotebook\Documents\Claim Academy\Week2\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\ConradNotebook\Documents\Claim Academy\Week2\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\ConradNotebook\Documents\Claim Academy\Week2\Phonebook\Phonebook\obj\Debug\Phonebook.csprojAssemblyReference.cache
+C:\Users\ConradNotebook\Documents\Claim Academy\Week2\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\ConradNotebook\Documents\Claim Academy\Week2\Phonebook\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\ConradNotebook\Documents\Claim Academy\Week2\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
